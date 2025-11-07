@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity oyunlari\\3dpartioyunufizikli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\dusmanyapayzeka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\dusmanyapayzeka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\silahdatalari\\silahkodlari\\tufek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\silahdatalari\\silahkodlari\\tufek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\silahdatalari\\silahkodlari\\glock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\silahdatalari\\silahkodlari\\glock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\mermikod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\mermikod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|d:\\unity oyunlari\\3dpartioyunufizikli\\assets\\cankontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\cankontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\silahdatalari\\silahdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\silahdatalari\\silahdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|d:\\unity oyunlari\\3dpartioyunufizikli\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\coversistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\coversistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\camerakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\camerakontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\silahdatalari\\silah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\silahdatalari\\silah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\guncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\guncode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|D:\\Unity oyunlari\\3dpartioyunufizikli\\assets\\hareketkod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DC78CD-B575-E117-409F-279F0AC5E550}|Assembly-CSharp.csproj|solutionrelative:assets\\hareketkod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CanKontrol.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\CanKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\CanKontrol.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\CanKontrol.cs",
+              "RelativeToolTip": "Assets\\CanKontrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:39:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DusmanYapayZeka.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\DusmanYapayZeka.cs",
+              "RelativeDocumentMoniker": "Assets\\DusmanYapayZeka.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\DusmanYapayZeka.cs",
+              "RelativeToolTip": "Assets\\DusmanYapayZeka.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:43:30.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tufek.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\SilahKodlari\\Tufek.cs",
+              "RelativeDocumentMoniker": "Assets\\SilahDatalari\\SilahKodlari\\Tufek.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\SilahKodlari\\Tufek.cs",
+              "RelativeToolTip": "Assets\\SilahDatalari\\SilahKodlari\\Tufek.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:53:06.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Glock.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\SilahKodlari\\Glock.cs",
+              "RelativeDocumentMoniker": "Assets\\SilahDatalari\\SilahKodlari\\Glock.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\SilahKodlari\\Glock.cs",
+              "RelativeToolTip": "Assets\\SilahDatalari\\SilahKodlari\\Glock.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:39:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MermiKod.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\MermiKod.cs",
+              "RelativeDocumentMoniker": "Assets\\MermiKod.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\MermiKod.cs",
+              "RelativeToolTip": "Assets\\MermiKod.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:22:29.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Silah.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\Silah.cs",
+              "RelativeDocumentMoniker": "Assets\\SilahDatalari\\Silah.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\Silah.cs",
+              "RelativeToolTip": "Assets\\SilahDatalari\\Silah.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:16:03.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SilahData.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\SilahData.cs",
+              "RelativeDocumentMoniker": "Assets\\SilahDatalari\\SilahData.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\SilahDatalari\\SilahData.cs",
+              "RelativeToolTip": "Assets\\SilahDatalari\\SilahData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T17:08:58.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GunCode.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\GunCode.cs",
+              "RelativeDocumentMoniker": "Assets\\GunCode.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\GunCode.cs",
+              "RelativeToolTip": "Assets\\GunCode.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T14:21:21.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoverSistemi.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\CoverSistemi.cs",
+              "RelativeDocumentMoniker": "Assets\\CoverSistemi.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\CoverSistemi.cs",
+              "RelativeToolTip": "Assets\\CoverSistemi.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwE4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:38:02.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraKontrol.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\CameraKontrol.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraKontrol.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\CameraKontrol.cs",
+              "RelativeToolTip": "Assets\\CameraKontrol.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:20:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAAMoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:14:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HareketKod.cs",
+              "DocumentMoniker": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\HareketKod.cs",
+              "RelativeDocumentMoniker": "Assets\\HareketKod.cs",
+              "ToolTip": "D:\\Unity oyunlari\\3dpartioyunufizikli\\Assets\\HareketKod.cs",
+              "RelativeToolTip": "Assets\\HareketKod.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:06:49.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
